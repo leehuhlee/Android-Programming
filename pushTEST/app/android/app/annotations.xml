@@ -1,0 +1,7 @@
+<root>
+    <item name='android.app.NotificationManager void notify(int, android.app.Notification)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
